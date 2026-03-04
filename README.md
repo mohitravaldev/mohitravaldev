@@ -26,7 +26,7 @@ I provide the **"Digital Glow"** to startups—merging elite full-stack engineer
 ### 📫 Let's Connect
 I'm always open to collaborating on **Open Source Flutter projects** and high-growth **0→1 Startup ventures**.
 
-- **WhatsApp/Signal:** [+91 9638924757](https://wa.me/919638924757)
+- **WhatsApp:** [+91 9638924757](https://wa.me/919638924757)
 - **Email:** [mohitdeveloper.india@gmail.com](mailto:mohitdeveloper.india@gmail.com)
 - **LinkedIn:** [linkedin.com/in/mohitraval/](https://linkedin.com/in/mohitraval)
 
